@@ -10,9 +10,7 @@
 </head>
 
 <body>
-    <div id="id">
-        @yield('content')
-    </div>
+
 </body>
 
 </html>
