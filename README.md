@@ -12,8 +12,8 @@ Ce projet est un clone de r/place, une expérience sociale collaborative où les
 
 ## Installation
 
-1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/r-place-clone.git`
-2. Accédez au répertoire du projet : `cd r-place-clone`
+1. Clonez le dépôt : `git clone https://github.com/Frize01/Lartplace.git`
+2. Accédez au répertoire du projet : `cd Lartplace`
 3. Installez les dépendances PHP : `composer install`
 4. Copiez le fichier `.env.example` en `.env` et configurez les variables d'environnement telles que la base de données
 5. Générez une clé d'application : `php artisan key:generate`
